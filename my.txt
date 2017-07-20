@@ -3,8 +3,45 @@
 
 *google* +proxy
 *blogspot* +proxy
-*facebook* +proxy
+*.goo.gl +proxy
+*.android.com +proxy
+*.appspot.com +proxy
+*.chromium.org +proxy
+*.doubleclick.net +proxy
+*.gstatic.com +proxy
+*.ytimg.com +proxy
+*.blogger.com +proxy
+*.golang.org +proxy
+*.appspot.com +proxy
+*.ggpht.com +proxy
+*.tensorflow.org +proxy
+
 *youtube* +proxy
+*.youtu.be +proxy
+
 *dropbox* +proxy
+
+*.twitter.com +proxy
+*.twimg.com +proxy
+*.t.co +proxy
+
+*.wikipedia.org +proxy
+
+*facebook* +proxy
+*.fbcdn.net +proxy
+
+*.wp.com +proxy
+*.wordpress.com +proxy
+
+*.torproject.org +proxy
+*.bit.ly +proxy
+*.flickr.com +proxy
+*.tumblr.com +proxy
+*.vimeo.com +proxy
+*.box.com +proxy
+*.alternativeto.net +proxy
+*.wetransfer.com +proxy
+*.twister.net.co +proxy
+*.medium.com +proxy
 
 * +direct
