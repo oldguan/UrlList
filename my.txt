@@ -1,0 +1,10 @@
+[SwitchyOmega Conditions]
+@with result
+
+*google* +proxy
+*blogspot* +proxy
+*facebook* +proxy
+*youtube* +proxy
+*dropbox* +proxy
+
+* +direct
