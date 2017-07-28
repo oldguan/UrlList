@@ -33,11 +33,13 @@
 *.wp.com +proxy
 *.wordpress.com +proxy
 
+*vimeo.com +proxy
+*vimeocdn.com +proxy
+
 *torproject.org +proxy
 *bit.ly +proxy
 *flickr.com +proxy
 *tumblr.com +proxy
-*vimeo.com +proxy
 *box.com +proxy
 *alternativeto.net +proxy
 *wetransfer.com +proxy
