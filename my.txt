@@ -26,6 +26,7 @@
 *t.co +proxy
 
 *wikipedia.org +proxy
+*wikimedia.org +proxy
 
 *facebook* +proxy
 *fbcdn.net +proxy
