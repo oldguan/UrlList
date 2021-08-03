@@ -41,7 +41,6 @@
 *flickr.com +proxy
 *tumblr.com +proxy
 *box.com +proxy
-*alternativeto.net +proxy
 *wetransfer.com +proxy
 *twister.net.co +proxy
 *medium.com +proxy
