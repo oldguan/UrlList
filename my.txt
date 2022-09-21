@@ -15,6 +15,7 @@
 *.appspot.com +proxy
 *.ggpht.com +proxy
 *.tensorflow.org +proxy
+*.firebase.com +proxy
 
 *youtube* +proxy
 *youtu.be +proxy
@@ -24,6 +25,7 @@
 *twitter.com +proxy
 *twimg.com +proxy
 *t.co +proxy
+*.twitch.tv +proxy
 
 *wikipedia.org +proxy
 *wikimedia.org +proxy
@@ -45,5 +47,10 @@
 *wetransfer.com +proxy
 *twister.net.co +proxy
 *medium.com +proxy
+
+*.reddit* +proxy
+*.redd.it +proxy
+
+*discord* + proxy
 
 * +direct
