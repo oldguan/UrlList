@@ -16,6 +16,8 @@
 *.ggpht.com +proxy
 *.tensorflow.org +proxy
 *.firebase.com +proxy
+*.bazel.build +proxy
+*.skia.org +proxy
 
 *youtube* +proxy
 *youtu.be +proxy
@@ -51,6 +53,13 @@
 *.reddit* +proxy
 *.redd.it +proxy
 
-*discord* + proxy
+*discord* +proxy
+
+*instagram* +proxy
+
+*whatsapp* +proxy
+
+*pinterest.com +proxy
+*.pinimg.com +proxy
 
 * +direct
