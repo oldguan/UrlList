@@ -18,16 +18,17 @@
 *.firebase.com +proxy
 *.bazel.build +proxy
 *.skia.org +proxy
+*.chrome* +proxy
+*.blogblog.com +proxy
 
 *youtube* +proxy
 *youtu.be +proxy
 
 *dropbox* +proxy
 
-*twitter.com +proxy
+*twitter* +proxy
 *twimg.com +proxy
 *t.co +proxy
-*.twitch.tv +proxy
 
 *wikipedia.org +proxy
 *wikimedia.org +proxy
@@ -35,7 +36,7 @@
 *facebook* +proxy
 *fbcdn.net +proxy
 
-*.wp.com +proxy
+*.wp*.com +proxy
 *.wordpress.com +proxy
 
 *vimeo.com +proxy
@@ -62,4 +63,5 @@
 *pinterest.com +proxy
 *.pinimg.com +proxy
 
+*.bbc* +proxy
 * +direct
